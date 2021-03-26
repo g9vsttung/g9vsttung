@@ -6,7 +6,7 @@
 - FACEBOOK : https://www.facebook.com/profile.php?id=100005197038382
 - EMAIL: thanhgodlike@gmail.com
 
-
+- My CV :memo: https://github.com/g9vsttung/CV/blob/Tung/CV_SE140240.pdf
 <img  src="https://github-readme-stats.vercel.app/api?username=g9vsttung" alt="Vu Son Tung's GitHub stats" style="max-width:100%;">
 <!---
 
